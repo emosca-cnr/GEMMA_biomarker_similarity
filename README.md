@@ -1,4 +1,4 @@
-# Assessment of functional similarity among Biomarkers
+# Assessment of functional similarity among biomarkers
 
 We developed a pipeline to assess the similarity among biomarkers. The approach uses network diffusion processes on molecular and functional interactions, as well as molecular pathways, to estimate the functional similarity between novel biomarkers and existing biomarkers. It can be applied to genes, metabolites and microbial species.
 
