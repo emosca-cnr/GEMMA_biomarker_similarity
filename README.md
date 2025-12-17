@@ -6,5 +6,7 @@ This pipeline is part of the [GEMMA Project Multi-Omics Toolbox](https://www.gem
 
 Release: with the publication of articles by the GEMMA Consortium.
 
+<img src="GEMMA_CNR_biomarker_similarity.png">
+
 Contact: [Ettore Mosca](https://www.itb.cnr.it/en/institute/staff/ettore-mosca), Bioinformatics Lab, CNR-ITB
 
